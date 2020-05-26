@@ -1,1 +1,1 @@
-# wordpress-essentials
+# Wordpress Essentials
