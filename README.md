@@ -13,6 +13,12 @@ This repo includes the most usable functions and pieces of code of Wordpress and
 - Variations
 
 ## FlexSlider
-
+To manipulate woocommerce image slider in product page you can add the following code to your .js file:
+```javascript
+var gallerySlider = $('.woocommerce-product-gallery').data('flexslider');
+    /* You can manipulate slider below */
+    gallerySlider.flexslider('next'); // Goe to next slide
+```
+Full list of FlexSlider events:
 https://github.com/woocommerce/FlexSlider#general-notes
 
