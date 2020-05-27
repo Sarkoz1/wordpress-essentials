@@ -14,3 +14,5 @@ This repo includes the most usable functions and code of Wordpress and Woocommer
 
 ## FlexSlider
 
+https://github.com/woocommerce/FlexSlider#general-notes
+
