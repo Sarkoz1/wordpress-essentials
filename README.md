@@ -9,5 +9,8 @@ This repo includes the most usable functions and code of Wordpress and Woocommer
 - Contact Form 7
 
 ## Table of Contents: Woocommerce
-- [FlexSlider](https://github.com/woocommerce/FlexSlider#general-notes)
+- [FlexSlider](#flexslider)
 - Variations
+
+## FlexSlider
+
